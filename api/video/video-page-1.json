@@ -1,14 +1,20 @@
-[
-	{
-		"title":"测试1",
-		"url":"http://www.baidu.com/play-1.mp4",
-		"cover":"http://www.baidu.com/test_1.png",
-		"update":"2018-12-18 16:09:30"
-	},
-	{
-		"title":"测试2",
-		"url":"http://www.baidu.com/play-1.mp4",
-		"cover":"http://www.baidu.com/test_1.png",
-		"update":"2018-12-18 16:10:30"
-	}
-]
+{
+	"code": 0,
+	"data":[
+		{
+			"title":"测试1",
+			"url":"http://www.baidu.com/play-1.mp4",
+			"cover":"http://www.baidu.com/test_1.png",
+			"update":"2018-12-18 16:09:30"
+		},
+		{
+			"title":"测试2",
+			"url":"http://www.baidu.com/play-1.mp4",
+			"cover":"http://www.baidu.com/test_1.png",
+			"update":"2018-12-18 16:10:30"
+		}
+	],
+	"message": "ok",
+	"version": "5.2.0",
+	"systemTime": 1545186968957
+}
