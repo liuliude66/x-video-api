@@ -1,1 +1,1 @@
-{"code":0,"message":"ok","data":{"id":1,"adAccount":"{\"wechat\":\"xuan000008\", \"email\":\"huahua0000006@gmail.com\"}","donateAccount":"{\"wechat\":\"1555hexuan\", \"ali\":\"ali1812078,huahua0098\"}","version":"5.2.3"},"version":"5.2.0","systemTime":1546136643561}
+{"code":0,"message":"ok","data":{"id":1,"adAccount":"{\"wechat\":\"xuan000008\", \"email\":\"huahua0000006@gmail.com\"}","donateAccount":"{\"wechat\":\"1555hexuan\", \"ali\":\"ali1812078,huahua0098\"}","version":"2.1.0"},"version":"5.2.0","systemTime":1546263690641}
